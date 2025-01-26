@@ -1,0 +1,9 @@
+vendor/
+.env
+node_modules/
+*.log
+*.cache
+*.bak
+*.swp
+.idea/
+.DS_Store
